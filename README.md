@@ -18,6 +18,9 @@ Precisamos de uma sistema que permita:
 2. Garante que cada usuário participe apenas uma vez em cada sorteio;
 3. Lida com alta concorrência — muitos sorteios sendo criados ao mesmo tempo e sorteios muito populares recebendo milhares de inscrições simultâneas;
 4. Sorteia automaticamente um ganhador na data marcada(respeitando o horario).
+5. Sorteio tem que ter dia E horario a ser respeitado para o sorteio e participação.
+6. Garantir que todos usuários que se inscreveram em tempo habil tenham chance de ganhar o sorteio.
+7. Sorteio tem que dar suporte a usuários internacionais(localizado, tradução e etc)
 
 ## O que é esperado que seja apresentado durante a entrevista:
 - Estrutura das entidades principais (Usuário, Sorteio, Participação);
